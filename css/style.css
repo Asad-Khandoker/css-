@@ -1,0 +1,7 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.container{ width:1200px;margin:auto; padding:25px;font-size:20px ;background: #b6c6bd;}
+.flex{ display:flex; background: #e8e0e0;flex-direction: row;flex-wrap: wrap;justify-content: space-evenly;min-height: 600px;align-items: center;}
+.flex div{padding: 15px;width: 25%;}
+.col-01{background-color: seagreen;align-self: end;}
+.col-02{background-color: red;align-self: first baseline;}
+.col-03{background-color: magenta;align-self: end;}
